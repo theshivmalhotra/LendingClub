@@ -36,7 +36,6 @@ Based on my analysis I have shortlisted 9 drivers which are strong indicators of
 ## Acknowledgements
 
 - This project was inspired by LendingClub<br />
-- Facilitator- Siddhesh Gunjal
 
 ## Contact
 Created by [@theshivmalhotra] - feel free to contact me!
