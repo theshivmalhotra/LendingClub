@@ -16,17 +16,7 @@ The data given below contains information about past loan applicants and whether
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-Based on my analysis I have shortlisted 9 drivers which are strong indicators of loan default:-<br />
-* Loan Amount<br />
-* Interest Rate<br />
-* Annual Income<br />
-* DTI<br />
-* Sub Grade<br />
-* Home Ownership<br />
-* Purpose<br />
-* Verification Status<br />
-* Loan Status<br />
-
+Based on my analysis I have shortlisted 9 drivers which are strong indicators of loan default. Kindly refer to the code and pdf file to go through the analysis & conclusion.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
