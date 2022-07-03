@@ -16,36 +16,36 @@ The data given below contains information about past loan applicants and whether
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-Based on my analysis I have shortlisted 9 drivers which are strong indicators of loan default:-
-Loan Amount
-Interest Rate
-Annual Income
-DTI
-Sub Grade
-Home Ownership
-Purpose
-Verification Status
-Loan Status
+Based on my analysis I have shortlisted 9 drivers which are strong indicators of loan default:-<br />
+* Loan Amount<br />
+* Interest Rate<br />
+* Annual Income<br />
+* DTI<br />
+* Sub Grade<br />
+* Home Ownership<br />
+* Purpose<br />
+* Verification Status<br />
+* Loan Status<br />
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-Microsoft Excel
-Microsoft Power Point
-Python tool
-Anaconda Distribution
-Visual Code-IDE
-Numpy- Numerical Analysis Python Library
-Pandas- Data Analysis Python Library
-Matplotlib- Visualization Python Library
-Seaborn- visualization Python Library
+* Microsoft Excel<br />
+* Microsoft Power Point<br />
+* Python tool<br />
+* Anaconda Distribution<br />
+* Visual Code-IDE<br />
+* Numpy- Numerical Analysis Python Library<br />
+* Pandas- Data Analysis Python Library<br />
+* Matplotlib- Visualization Python Library<br />
+* Seaborn- visualization Python Library<br />
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 
-- This project was inspired by LendingClub
+- This project was inspired by LendingClub<br />
 - Facilitator- Siddhesh Gunjal
 
 ## Contact
